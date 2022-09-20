@@ -1,22 +1,18 @@
 {
-	"movies": [
+	"albums": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Preacher's Daughter",
+			"Artist": "Ethel Cain",
+			"Year": "2022",
+			"Genre": "Alternative",
+			"Rating": "5/5"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
-		},
-		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "SAWAYAMA",
+			"Artist": "Rina Sawayama",
+			"Year": "2020",
+			"Genre": "Alternative",
+			"Rating": "5/5"
 		}
 	]
 }
