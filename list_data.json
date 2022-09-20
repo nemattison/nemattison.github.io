@@ -4,15 +4,49 @@
 			"Title": "Preacher's Daughter",
 			"Artist": "Ethel Cain",
 			"Year": "2022",
-			"Genre": "Alternative",
-			"Rating": "5/5"
+			"Genre": "Alternative"
 		},
 		{
 			"Title": "SAWAYAMA",
 			"Artist": "Rina Sawayama",
 			"Year": "2020",
-			"Genre": "Alternative",
-			"Rating": "5/5"
+			"Genre": "Alternative"
+		},
+		{
+			"Title": "RELAXER",
+			"Artist": "alt-J",
+			"Year": "2017",
+			"Genre": "Alternative"
+		},
+		{
+			"Title": "The Horror and the Wild",
+			"Artist": "The Amazing Devil",
+			"Year": "2020",
+			"Genre": "Alternative"
+		},
+		{
+			"Title": "For a Moment, I Was Lost",
+			"Artist": "Amber Run",
+			"Year": "2017",
+			"Genre": "Indie Rock"
+		},
+		{
+			"Title": "AM",
+			"Artist": "Arctic Monkeys",
+			"Year": "2013",
+			"Genre": "Alternative"
+		},
+		{
+			"Title": "Doom Days",
+			"Artist": "Bastille",
+			"Year": "2019",
+			"Genre": "Alternative"
+		},
+		{
+			"Title": "Home Video",
+			"Artist": "Lucy Dacus",
+			"Year": "2021",
+			"Genre": "Indie Rock"
 		}
 	]
 }
